@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jehad</h1>
+<h3 align="center">Cybersecurity Student | IT Engineering (SVU)</h3>
 
-<!--
-**0xjehad/0xjehad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 Information Technology Engineering student at the Syrian Virtual University (Cybersecurity Track)
+- 💼 Currently working in a transportation company
+- 🔐 Passionate about Cybersecurity, Penetration Testing, and Network Security
+- 🐍 Developing small projects using **Python**, **Flask**, and **Pygame**
+- 🚀 Interested in AI basics and how to integrate it with cybersecurity
+- 🌱 Currently strengthening my English through technical courses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies
+### **Programming**
+- Python  
+- JavaScript  
+
+### **Web Development**
+- HTML / CSS  
+- Flask  
+
+### **Cybersecurity**
+- Footprinting & Scanning  
+- Enumeration  
+- Vulnerability Assessment  
+- OSINT  
+- Basic Network Security  
+
+### **Tools**
+- Nmap  
+- Burp Suite  
+- Wireshark  
+- Metasploit  
+- Linux  
+- Git & GitHub  
+
+---
+
+## 📚 Currently Learning
+- **eJPT v2 Certification Preparation**
+- Cybersecurity Assessment Methodologies  
+- Python for Security  
+- AI fundamentals  
+
+---
+
+## 📂 Featured Projects
+- 🧩 **8-Puzzle Solver Web App (Python + Flask)**   
+- 🔐 **Basic Cybersecurity Labs & Notes**  
+- 🕸️ Web mini-projects (HTML/CSS/JS)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" width="46%" />
+</p>
+
+---
+
+## 📫 Contact Me
+- ✉️ Email: 0xjalsobae@gmail.com   
+- 💬 Telegram: [t.me/joe_000](https://t.me/joe_000)  
+- 🔗 LinkedIn: [jehad-alsobae](https://www.linkedin.com/in/jehad-alsobae-007/)  
+
+---
+
+⭐ **Thanks for visiting my profile! Feel free to check out my projects and connect with me.**
