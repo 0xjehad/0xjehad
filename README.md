@@ -9,7 +9,6 @@
 - 🔐 Passionate about Cybersecurity, Penetration Testing, and Network Security
 - 🐍 Developing small projects using **Python**, **Flask**, and **Pygame**
 - 🚀 Interested in AI basics and how to integrate it with cybersecurity
-- 🌱 Currently strengthening my English through technical courses
 
 ---
 
